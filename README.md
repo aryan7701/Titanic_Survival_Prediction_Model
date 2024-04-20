@@ -22,3 +22,6 @@ This Notebook will show basic examples of:
     Importing Data with Pandas
     Cleaning Data
     Exploring Data through Visualizations with Matplotlib
+## Results
+
+The trained model achieved an **accuracy of 83.22 %** and **Precision is 80.05 %** on the test set and performed well in terms of precision, recall, and F1-score.
