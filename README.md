@@ -2,7 +2,7 @@
 
 <img src="https://images8.alphacoders.com/405/405029.jpg">
 
-Using Machine learning algorithm on the famous Titanic Disaster Dataset for Predicting the survival of the passenger for BHARAT INTERN TASK SUBMISSION
+Using Machine learning algorithm on the famous Titanic Disaster Dataset for Predicting the survival of the passenger for BHARAT INTERN TASK.
                                                                     
 Dependencies:
 
